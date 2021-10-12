@@ -14,6 +14,7 @@ public class Usuario {
 	
 	public String getnombre() {
 		return nombre;
-	}
+			}
+	//agregar los otros getters
 
 }
